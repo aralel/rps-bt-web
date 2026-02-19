@@ -1,22 +1,13 @@
-# Rock Paper Bluetooth Website (GitHub Pages)
+# Rock Paper Bluetooth Website
 
-This folder is a GitHub Pages-ready static website for Rock Paper Bluetooth.
+This folder contains the static marketing and legal website for Rock Paper Bluetooth.
 
-## Publish on GitHub Pages
+## Live URLs
 
-1. Open your repository settings on GitHub.
-2. Go to **Pages**.
-3. Set source to **Deploy from a branch**.
-4. Choose branch `main` (or your default branch) and folder `/docs`.
-5. Save.
+- Website: https://rps-bt.aralel.com/
+- App Store: https://apps.apple.com/us/app/rock-paper-scissor-bluetooth/id6759180874
 
-## Important post-publish update
+## Notes
 
-After your Pages URL is live, replace these placeholders:
-
-- `docs/sitemap.xml`: `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY_NAME`
-- `docs/robots.txt`: `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY_NAME`
-
-## App Store link used
-
-- https://apps.apple.com/app/id6759180874
+- `docs/sitemap.xml` and `docs/robots.txt` are configured for `rps-bt.aralel.com`.
+- Update these URLs if your domain or App Store listing URL changes.

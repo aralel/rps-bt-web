@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/</loc>
+    <loc>https://rps-bt.aralel.com/</loc>
   </url>
   <url>
-    <loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/privacy.html</loc>
+    <loc>https://rps-bt.aralel.com/privacy.html</loc>
   </url>
   <url>
-    <loc>https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/terms.html</loc>
+    <loc>https://rps-bt.aralel.com/terms.html</loc>
   </url>
 </urlset>
